@@ -1,4 +1,4 @@
-A simple REST API in PHP from scratch.
+A simple REST API in PHP built from scratch.
 
 Based on  Build a Simple REST API in PHP, by Krasimir Hristozov 
 
