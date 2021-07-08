@@ -16,6 +16,7 @@ Note: when making PUT and POST requests, make sure to set the Body type to raw, 
 
 
 Endpoints 
+
 // return all records
 GET /person
 
